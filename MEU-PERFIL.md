@@ -31,3 +31,6 @@ Preencha (ou peça para o Claude preencher com você) e anexe ao seu Projeto.
 
 ## Regras aprendidas (correções que eu fiz)
 - 
+## Sem automação do direct pronta: terminar o carrossel com pergunta de resposta de um toque (ex.: "1, 2 ou 3?"), sem palavra-código
+-
+- Toda legenda leva emojis com moderação e termina com as hashtags #ritananiopc #metodoritananiopc #opc
